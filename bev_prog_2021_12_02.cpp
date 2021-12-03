@@ -1,6 +1,3 @@
-//
-// Created by György Mitró on 2021. 12. 02..
-//
 #include "std_lib_facilities.h"
 
 class my_range_error{
